@@ -1,0 +1,33 @@
+body{
+    background-image: url(background.png);
+    background-attachment: fixed;
+    background-size: cover ;
+    
+}
+
+table{
+    column-rule-color: aqua;
+}
+
+
+  
+
+  h1   {
+    color: hotpink;
+    font-weight: 600;
+     }
+
+     td{
+        color: yellow;
+        font-weight: 900;
+        font-style: italic;
+        font-family: cursive;
+        font-size: larger;
+     }
+
+     th{
+
+        font-weight: bolder;
+     }
+
+    

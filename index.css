@@ -18,7 +18,7 @@ table{
      }
 
      td{
-        color: yellow;
+    
         font-weight: 900;
         font-style: italic;
         font-family: cursive;
@@ -30,4 +30,15 @@ table{
         font-weight: bolder;
      }
 
-    
+    #proper{ 
+      background-color: red;
+    }
+
+    #Deserts{ background-color: pink;
+
+    }
+
+    #Drinks{
+      background-color: blue;
+      color: yellow;
+    }

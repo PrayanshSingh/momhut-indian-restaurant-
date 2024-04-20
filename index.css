@@ -1,46 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap');
+
 body{
     background-image: url(background.png);
     background-attachment: fixed;
     background-size: cover ;
-    
+
 }
 
+
+ p{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: italic;
+  
+}
+
+
 table{
-    column-rule-color: aqua;
+    column-rule-color: #b9faf8;
+    text-align: center;
+ 
 }
 
 
   
 
   h1   {
-    color: hotpink;
+    color: #d81159;
     font-weight: 600;
+    text-decoration-line: underline;
+    text-decoration-color: aquamarine;
+    text-decoration-style: dashed;
+    text-decoration-thickness: 5px;
+    text-align: center;
+
      }
 
      td{
-    
-        font-weight: 900;
-        font-style: italic;
-        font-family: cursive;
-        font-size: larger;
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 800;
+      font-style: italic;
      }
 
      th{
-
-        font-weight: bolder;
-     }
+      font-family: "Jersey 15", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      text-decoration-line: underline;
+      text-decoration-color: aqua;
+      text-decoration-style: wavy;
+      text-decoration-thickness: 4px;
+       }
+    
 
     #proper{ 
-      background-color: red;
-
+      background-color: #f8333c;
+      color: #613dc1;
     }
 
     #Deserts{
-       background-color: pink;
-
+       background-color: #fb6f92;
+       color: #00b4d8;
     }
 
     #Drinks{
-      background-color: blue;
-      color: yellow;
+      background-color: #7209b7;
+      color: #edf67d;
     }

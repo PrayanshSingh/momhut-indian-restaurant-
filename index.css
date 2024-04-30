@@ -6,9 +6,13 @@ body{
     background-image: url(background.png);
     background-attachment: fixed;
     background-size: cover ;
-
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
  p{
   font-family: "Josefin Sans", sans-serif;
@@ -22,6 +26,7 @@ body{
 table{
     column-rule-color: #b9faf8;
     text-align: center;
+
  
 }
 
